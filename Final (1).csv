@@ -1,0 +1,251 @@
+Initial Side;Initial Velocity;Material;r distance (cm);Distance to Origin;Direction;Final Side
+Heads;Free fall;Carpet;13;1;South;Tails
+Heads;Free fall;Carpet;26;3;South;Tails
+Heads;Free fall;Carpet;18;1;North ;Tails
+Heads;Free fall;Carpet;22;2;East;Heads
+Heads;Free fall;Carpet;15;1;East;Tails
+Heads;Free fall;Carpet;16;3;North East;Heads
+Heads;Free fall;Carpet;40;3;North West;Tails
+Heads;Free fall;Carpet;25;2;South;Heads
+Heads;Free fall;Carpet;28;2;East;Heads
+Heads;Free fall;Carpet;13;3;North;Heads
+Heads;Free fall;Carpet;31;4;East;Heads
+Heads;Free fall;Carpet;26;3;West;Heads
+Heads;Free fall;Carpet;24;4;North East;Heads
+Heads;Free fall;Carpet;11;1;South East;Tails
+Heads;Free fall;Carpet;12;1;South West;Heads
+Heads;Free fall;Carpet;26;2;West;Heads
+Heads;Free fall;Carpet;13;3;North;Heads
+Heads;Free fall;Carpet;28;1;South;Tails
+Heads;Free fall;Carpet;20;1;East;Tails
+Heads;Free fall;Carpet;33;3;North East;Heads
+Heads;Free fall;Carpet;24;1;North West;Heads
+Heads;Free fall;Carpet;6;6;South;Tails
+Heads;Free fall;Carpet;12;5;East;Heads
+Heads;Free fall;Carpet;16;5;North;Heads
+Heads;Free fall;Carpet;27;3;East;Tails
+Tails;Free fall;Carpet;26;4;West;Tails
+Tails;Free fall;Carpet;20;7;West;Heads
+Tails;Free fall;Carpet;22;2;North East;Tails
+Tails;Free fall;Carpet;22;2;South East;Heads
+Tails;Free fall;Carpet;12;4;South West;Tails
+Tails;Free fall;Carpet;14;5;West;Heads
+Tails;Free fall;Carpet;23;4;North;Heads
+Tails;Free fall;Carpet;14;2;South;Heads
+Tails;Free fall;Carpet;11;3;South;Heads
+Tails;Free fall;Carpet;13;2;North ;Heads
+Tails;Free fall;Carpet;10;5;East;Heads
+Tails;Free fall;Carpet;13;4;East;Tails
+Tails;Free fall;Carpet;20;3;North;Tails
+Tails;Free fall;Carpet;12;1;East;Tails
+Tails;Free fall;Carpet;17;5;West;Heads
+Tails;Free fall;Carpet;20;4;West;Tails
+Tails;Free fall;Carpet;21;4;North East;Tails
+Tails;Free fall;Carpet;19;5;South East;Heads
+Tails;Free fall;Carpet;22;3;South West;Tails
+Tails;Free fall;Carpet;20;5;West;Tails
+Tails;Free fall;Carpet;19;3;North;Heads
+Tails;Free fall;Carpet;9;4;South;Heads
+Tails;Free fall;Carpet;11;2;South;Heads
+Tails;Free fall;Carpet;12;6;North;Tails
+Tails;Free fall;Carpet;11;4;East;Heads
+Heads;Free fall;Carpet;3;1;West;Heads
+Heads;Free fall;Carpet;32;3;West;Heads
+Heads;Free fall;Carpet;18;1;North East;Tails
+Heads;Free fall;Carpet;20;2;South East;Tails
+Heads;Free fall;Carpet;19;1;South West;Tails
+Heads;Free fall;Carpet;23;3;West;Heads
+Heads;Free fall;Carpet;26;3;West;Tails
+Heads;Free fall;Carpet;14;2;North;Heads
+Heads;Free fall;Carpet;22;2;South;Heads
+Heads;Free fall;Carpet;21;3;South West;Heads
+Heads;Free fall;Carpet;18;4;West;Heads
+Heads;Free fall;Carpet;19;3;North;Heads
+Heads;Free fall;Carpet;21;4;South;Heads
+Heads;Free fall;Carpet;7;1;South;Tails
+Heads;Free fall;Carpet;20;1;North;Heads
+Heads;Free fall;Carpet;22;2;East;Heads
+Heads;Free fall;Carpet;17;3;North;Heads
+Heads;Free fall;Carpet;17;1;South;Tails
+Heads;Free fall;Carpet;16;1;South West;Heads
+Heads;Free fall;Carpet;26;3;West;Heads
+Heads;Free fall;Carpet;22;1;West;Tails
+Heads;Free fall;Carpet;14;6;North East;Tails
+Heads;Free fall;Carpet;12;5;South East;Tails
+Heads;Free fall;Carpet;20;5;South West;Heads
+Heads;Free fall;Carpet;10;3;West;Tails
+Tails;Free fall;Carpet;23;4;North;Tails
+Tails;Free fall;Carpet;28;7;South;Heads
+Tails;Free fall;Carpet;22;2;South West;Tails
+Tails;Free fall;Carpet;10;2;West;Tails
+Tails;Free fall;Carpet;20;4;North;Tails
+Tails;Free fall;Carpet;11;5;South;Heads
+Tails;Free fall;Carpet;22;4;South;Heads
+Tails;Free fall;Carpet;26;2;South West;Heads
+Tails;Free fall;Carpet;15;3;West;Tails
+Tails;Free fall;Carpet;12;2;West;Tails
+Tails;Free fall;Carpet;14;5;North East;Heads
+Tails;Free fall;Carpet;18;4;South East;Heads
+Tails;Free fall;Carpet;20;3;South West;Tails
+Tails;Free fall;Carpet;16;1;West;Tails
+Tails;Free fall;Carpet;24;5;North;Heads
+Tails;Free fall;Carpet;20;4;South;Tails
+Tails;Free fall;Carpet;17;4;South West;Heads
+Tails;Free fall;Carpet;15;5;West;Tails
+Tails;Free fall;Carpet;17;3;North;Tails
+Tails;Free fall;Carpet;20;5;South;Heads
+Tails;Free fall;Carpet;13;3;South;Tails
+Tails;Free fall;Carpet;17;4;South West;Heads
+Tails;Free fall;Carpet;24;2;West;Heads
+Tails;Free fall;Carpet;12;6;West;Tails
+Tails;Free fall;Carpet;14;4;West;Heads
+Heads;Free fall;Marble;4;1;North East;Heads
+Heads;Free fall;Marble;15;3;South East;Tails
+Heads;Free fall;Marble;1;1;South West;Tails
+Heads;Free fall;Marble;12;2;West;Tails
+Heads;Free fall;Marble;2;1;North;Tails
+Heads;Free fall;Marble;17;3;South;Heads
+Heads;Free fall;Marble;3;3;East;Heads
+Heads;Free fall;Marble;4;2;North East;Tails
+Heads;Free fall;Marble;1;2;North West;Heads
+Heads;Free fall;Marble;6;3;South;Heads
+Heads;Free fall;Marble;8;4;East;Tails
+Heads;Free fall;Marble;15;3;North;Tails
+Heads;Free fall;Marble;26;4;East;Heads
+Heads;Free fall;Marble;3;1;West;Tails
+Heads;Free fall;Marble;1;1;North East;Heads
+Heads;Free fall;Marble;9;2;South East;Tails
+Heads;Free fall;Marble;2;3;South West;Tails
+Heads;Free fall;Marble;4;1;West;Tails
+Heads;Free fall;Marble;7;1;North;Heads
+Heads;Free fall;Marble;3;3;South;Heads
+Heads;Free fall;Marble;22;1;South West;Tails
+Heads;Free fall;Marble;5;6;West;Heads
+Heads;Free fall;Marble;6;5;North;Tails
+Heads;Free fall;Marble;23;5;South;Tails
+Heads;Free fall;Marble;11;3;South;Tails
+Tails;Free fall;Marble;24;4;North East;Tails
+Tails;Free fall;Marble;23;7;South East;Tails
+Tails;Free fall;Marble;10;2;South West;Tails
+Tails;Free fall;Marble;34;2;West;Heads
+Tails;Free fall;Marble;4;4;North;Heads
+Tails;Free fall;Marble;11;5;South;Heads
+Tails;Free fall;Marble;13;4;East;Heads
+Tails;Free fall;Marble;7;2;North East;Heads
+Tails;Free fall;Marble;3;3;North West;Tails
+Tails;Free fall;Marble;8;2;South;Tails
+Tails;Free fall;Marble;7;5;East;Tails
+Tails;Free fall;Marble;20;4;North;Tails
+Tails;Free fall;Marble;6;3;East;Tails
+Tails;Free fall;Marble;24;1;South West;Tails
+Tails;Free fall;Marble;21;5;West;Heads
+Tails;Free fall;Marble;19;4;North;Heads
+Tails;Free fall;Marble;8;4;South;Tails
+Tails;Free fall;Marble;7;5;South West;Tails
+Tails;Free fall;Marble;19;3;West;Heads
+Tails;Free fall;Marble;27;5;North;Heads
+Tails;Free fall;Marble;10;3;South;Tails
+Tails;Free fall;Marble;8;4;South;Heads
+Tails;Free fall;Marble;9;2;North East;Heads
+Tails;Free fall;Marble;12;6;South East;Heads
+Tails;Free fall;Marble;17;4;South West;Heads
+Heads;Velocity;Marble;37;5;West;Heads
+Heads;Velocity;Marble;23;6;North;Tails
+Heads;Velocity;Marble;24;13;North West;Tails
+Heads;Velocity;Marble;23;24;South;Tails
+Heads;Velocity;Marble;23;12;East;Heads
+Heads;Velocity;Marble;17;16;North;Tails
+Heads;Velocity;Marble;9;5;East;Tails
+Heads;Velocity;Marble;1;4;South West;Heads
+Heads;Velocity;Marble;15;18;West;Tails
+Heads;Velocity;Marble;20;13;North;Heads
+Heads;Velocity;Marble;29;10;South;Tails
+Heads;Velocity;Marble;24;12;South West;Tails
+Heads;Velocity;Marble;21;17;West;Heads
+Heads;Velocity;Marble;44;5;North;Tails
+Heads;Velocity;Marble;6;4;South;Heads
+Heads;Velocity;Marble;17;5;West;Tails
+Heads;Velocity;Marble;6;4;North;Tails
+Heads;Velocity;Marble;30;8;South;Tails
+Heads;Velocity;Marble;29;5;South West;Heads
+Heads;Velocity;Marble;21;15;West;Tails
+Heads;Velocity;Marble;32;4;North;Tails
+Heads;Velocity;Marble;43;20;South;Heads
+Heads;Velocity;Marble;29;9;South;Heads
+Heads;Velocity;Marble;12;2;South West;Heads
+Heads;Velocity;Marble;5;2;West;Heads
+Tails;Velocity;Marble;20;7;West;Heads
+Tails;Velocity;Marble;8;4;North;Tails
+Tails;Velocity;Marble;25;12;North West;Tails
+Tails;Velocity;Marble;24;8;South;Tails
+Tails;Velocity;Marble;30;11;East;Heads
+Tails;Velocity;Marble;27;12;North;Tails
+Tails;Velocity;Marble;15;7;East;Tails
+Tails;Velocity;Marble;35;4;South West;Tails
+Tails;Velocity;Marble;9;5;West;Tails
+Tails;Velocity;Marble;14;6;North;Heads
+Tails;Velocity;Marble;10;13;South;Heads
+Tails;Velocity;Marble;20;19;South West;Tails
+Tails;Velocity;Marble;7;9;West;Tails
+Tails;Velocity;Marble;24;10;North;Tails
+Tails;Velocity;Marble;31;8;South;Heads
+Tails;Velocity;Marble;25;9;West;Tails
+Tails;Velocity;Marble;26;10;North;Tails
+Tails;Velocity;Marble;28;11;South;Tails
+Tails;Velocity;Marble;31;19;South;Heads
+Tails;Velocity;Marble;19;9;South West;Heads
+Tails;Velocity;Marble;18;7;West;Heads
+Tails;Velocity;Marble;16;11;West;Tails
+Tails;Velocity;Marble;14;5;North;Heads
+Tails;Velocity;Marble;31;9;North West;Tails
+Tails;Velocity;Marble;33;7;South;Tails
+Heads;Velocity;Carpet;10;22;East;Tails
+Heads;Velocity;Carpet;23;10;North;Tails
+Heads;Velocity;Carpet;18;4;East;Tails
+Heads;Velocity;Carpet;34;11;South West;Heads
+Heads;Velocity;Carpet;17;6;North;Heads
+Heads;Velocity;Carpet;9;4;North West;Heads
+Heads;Velocity;Carpet;25;8;South;Heads
+Heads;Velocity;Carpet;17;12;East;Heads
+Heads;Velocity;Carpet;27;8;North;Tails
+Heads;Velocity;Carpet;18;5;East;Tails
+Heads;Velocity;Carpet;34;3;South West;Tails
+Heads;Velocity;Carpet;33;14;West;Heads
+Heads;Velocity;Carpet;23;7;North;Tails
+Heads;Velocity;Carpet;25;14;South;Tails
+Heads;Velocity;Carpet;18;4;South West;Tails
+Heads;Velocity;Carpet;71;6;West;Tails
+Heads;Velocity;Carpet;55;6;North;Heads
+Heads;Velocity;Carpet;58;4;South;Tails
+Heads;Velocity;Carpet;42;13;West;Tails
+Heads;Velocity;Carpet;32;8;North;Tails
+Heads;Velocity;Carpet;15;15;South;Tails
+Heads;Velocity;Carpet;39;9;South;Heads
+Heads;Velocity;Carpet;48;10;South West;Heads
+Heads;Velocity;Carpet;28;5;West;Heads
+Heads;Velocity;Carpet;28;4;West;Heads
+Tails;Velocity;Carpet;20;10;North;Tails
+Tails;Velocity;Carpet;49;4;South;Tails
+Tails;Velocity;Carpet;46;10;South West;Tails
+Tails;Velocity;Carpet;11;2;West;Tails
+Tails;Velocity;Carpet;15;10;West;Heads
+Tails;Velocity;Carpet;48;15;North;Tails
+Tails;Velocity;Carpet;43;9;North West;Tails
+Tails;Velocity;Carpet;41;4;South;Heads
+Tails;Velocity;Carpet;23;11;East;Tails
+Tails;Velocity;Carpet;62;5;North;Heads
+Tails;Velocity;Carpet;27;12;East;Heads
+Tails;Velocity;Carpet;27;7;South West;Heads
+Tails;Velocity;Carpet;51;4;North;Heads
+Tails;Velocity;Carpet;23;1;North West;Heads
+Tails;Velocity;Carpet;21;9;South;Heads
+Tails;Velocity;Carpet;27;2;East;Heads
+Tails;Velocity;Carpet;30;6;North;Heads
+Tails;Velocity;Carpet;52;5;West;Tails
+Tails;Velocity;Carpet;40;5;West;Heads
+Tails;Velocity;Carpet;47;5;North;Tails
+Tails;Velocity;Carpet;40;6;North West;Heads
+Tails;Velocity;Carpet;29;7;South;Tails
+Tails;Velocity;Carpet;35;5;East;Heads
+Tails;Velocity;Carpet;26;6;North;Heads
+Tails;Velocity;Carpet;46;11;North;Heads
